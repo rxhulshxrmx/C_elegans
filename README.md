@@ -1,6 +1,5 @@
 # C. elegans
-
-A complete computational neuroscience research platform for studying neural network learning in C. elegans sensorimotor control.
+Studying neural network learning in C. elegans sensorimotor control.
 
 ## Overview
 
