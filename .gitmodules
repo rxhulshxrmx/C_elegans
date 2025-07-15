@@ -1,0 +1,6 @@
+[submodule "gym-worm"]
+	path = gym-worm
+	url = git@github.com:zhongyuchen/gym-worm.git
+[submodule "worm-assets"]
+	path = worm-assets
+	url = git@github.com:zhongyuchen/worm-assets.git
