@@ -1,0 +1,37 @@
+MULTI-REWARD C. ELEGANS SIMULATION REPORT
+==================================================
+
+Simulation Configuration:
+- Episodes: 1
+- Rewards: 2
+- Start Position: [0. 0. 0.]
+- Reward Radius: 0.8m
+- Navigation: Chemotaxis-based
+
+Reward Positions:
+  T1: (-0.8, 2.7, 0.5)
+  T2: (1.4, 0.6, 0.5)
+
+Optimal Path Analysis:
+- Order: ['T2', 'T1']
+- Distance: 4.60m
+
+Episode Results:
+------------------------------
+Episode 1:
+  Time: 43.32s
+  Steps: 1752
+  Collected: 2/2
+  Efficiency: 100.0%
+  Success: True
+  Collection Order:
+    T2 at 21.1s (step 835)
+    T1 at 43.1s (step 1751)
+
+Summary Statistics:
+--------------------
+Average Time: 43.32 ± 0.00s
+Average Efficiency: 100.0% ± 0.0%
+Success Rate: 100.0%
+Best Episode: 1
+Fastest Episode: 1
